@@ -7,8 +7,6 @@ description: Operator trail for lcd-lens. Load this before re-deriving the skill
 
 For a human: how the lock was earned. For a model: **do not re-derive from the word “LCD.”** Replay the operator corrections. The dead ends are named so you do not walk them again.
 
-`train_ok=false · measured_omega=false · G1=OPEN`
-
 ## If you are a model
 
 1. Read `SKILL.md` (the lock). Then this file (the trail).
@@ -43,7 +41,6 @@ LCD was originally a **metaphor** (lowest common denominator). It sprawled. The 
 1. **Scout** — operator used “LCD” as metaphor for making unlike things comparable without lying.
 2. **Wrong meet (unit-join)** — model treated LCD as same-unit quantities. Operator: not that, or not only that.
 3. **Wrong meet (pool)** — model used FBI stats. Operator: that is recorrection from a pool you still have. Aimed studies are gathered **to find a specific thing**.
-4. **Wrong occupant (SI)** — three laws onto SI as extra objects refused. Operator: laws are the *method* of SI (identity = reference; NC+EM confirm subversion). Power-use (words as power, postmodern frame) is SI, **upstream** of aimed misframed studies. Replication crisis = marker `replication_gap`, not a seal.
 5. **Name the sprawl** — operator: LCD **lens** stays. It looks at data by mapping **their function set** vs **our demanded function set**.
 6. **Reuse** — operator: stay true to reality; same math; can we reutilize it toward our ends; manifold freak-out → why steer → Mythos / substrate friction (theories OPEN).
 7. **Lock** — meet = collection ∩ demand. Reuse = collection function toward an allowed LLMVE *question*, never toward a claimed meter they did not hold.
