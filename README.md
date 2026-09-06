@@ -11,4 +11,3 @@ Twinglass and LLMVE consume this lock. They do not own it.
 
 **Not this repo:** `llmve-translate` (Mythos / friction pathway), SI glossary, unit-join, pool recorrect, ΔW.
 
-Meaning Version: 0.3.4 · State: unsealed / pure measurement

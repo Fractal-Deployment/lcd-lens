@@ -14,8 +14,6 @@ metadata:
 
 **One job:** **look**. Map their collection functions and claimed functions to our demanded functions. Name the meet. Name exclusive accounts. Stop.
 
-`train_ok=false · measured_omega=false · G1=OPEN`
-
 Do **not** put collected math onto an LLMVE pathway. That is `llmve-translate`.
 
 ## Method
