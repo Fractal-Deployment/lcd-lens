@@ -60,7 +60,7 @@ if exclusive: steelman both accounts of what the data does
 if collection_fn exists and demand is Mythos-evidence or friction-question:
     llmve-translate the collection_fn toward that question
     do not import claimed_fn
-    do not close G1 / train_ok / measured_omega
+    do not close G1 / training_cleared / omega_was_measured
 ```
 
 Worked example (qualitative, no invented bits): INT8 SVD on `attn.o` **collects** weight-geometry-snapshot, **claims** viability \(P_L\). Demand \(P_L\) → empty meet, exclusive, steelman. Demand Track W or Mythos-evidence → meet = snapshot; reuse the SVD toward routing geometry; drop viability.
